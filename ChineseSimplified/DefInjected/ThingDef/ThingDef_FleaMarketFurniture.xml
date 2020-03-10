@@ -2,51 +2,27 @@
 
   
 
-  <BULDRESTStool.label>BULDREST凳(BULDREST Stool)</BULDRESTStool.label>
-  <BULDRESTStool.description>BULDREST凳
-有人认为堆叠stonechunks是
-更好地为坐在总比什么都没有。
-他们是对的。(BULDREST Stool
-Someone thought that stacked stonechunks are 
-better for sitting on than nothing.
-They were right.)</BULDRESTStool.description>
-  <BULDRESTStool_Blueprint.label>大便BULDREST（蓝图）(BULDREST Stool (blueprint))</BULDRESTStool_Blueprint.label>
-  <BULDRESTStool_Blueprint_Install.label>大便BULDREST（蓝图）(BULDREST Stool (blueprint))</BULDRESTStool_Blueprint_Install.label>
-  <BULDRESTStool_Frame.label>大便BULDREST（建筑）(BULDREST Stool (building))</BULDRESTStool_Frame.label>
-  <BULDRESTStool_Frame.description>BULDREST凳
-有人认为堆叠stonechunks是
-更好地为坐在总比什么都没有。
-他们是对的。(BULDREST Stool
-Someone thought that stacked stonechunks are 
-better for sitting on than nothing.
-They were right.)</BULDRESTStool_Frame.description>
+  <BULDRESTStool.label>BULDREST凳子</BULDRESTStool.label>
+  <BULDRESTStool.description>坐在石头堆上总比什么都没有好！</BULDRESTStool.description>
+  <BULDRESTStool_Blueprint.label>BULDREST凳子（蓝图）</BULDRESTStool_Blueprint.label>
+  <BULDRESTStool_Blueprint_Install.label>BULDREST凳子（蓝图）</BULDRESTStool_Blueprint_Install.label>
+  <BULDRESTStool_Frame.label>BULDREST（建造中）</BULDRESTStool_Frame.label>
+  <BULDRESTStool_Frame.description>坐在石头堆上总比什么都没有好！)</BULDRESTStool_Frame.description>
 
 
   
 
-  <WODENTable.label>木桌子(WODEN Table)</WODENTable.label>
-  <WODENTable.description>木桌子
-这是一张桌子。它是用木头做的。
-这是老摇摇晃晃的，而不是什么好看的，
-但它会保持你的食物掉在地上。大概。(WODEN Table
-It's a table. It's made of wood.
-It's old and rickety and not much to look at,
-but it will hold your food off the floor. Probably.)</WODENTable.description>
-  <WODENTable_Blueprint.label>木桌（蓝图）(WODEN Table (blueprint))</WODENTable_Blueprint.label>
-  <WODENTable_Blueprint_Install.label>木桌（蓝图）(WODEN Table (blueprint))</WODENTable_Blueprint_Install.label>
-  <WODENTable_Frame.label>木桌（建筑）(WODEN Table (building))</WODENTable_Frame.label>
-  <WODENTable_Frame.description>木桌子
-这是一张桌子。它是用木头做的。
-这是老摇摇晃晃的，而不是什么好看的，
-但它会保持你的食物掉在地上。大概。(WODEN Table
-It's a table. It's made of wood.
-It's old and rickety and not much to look at,
-but it will hold your food off the floor. Probably.)</WODENTable_Frame.description>
+  <WODENTable.label>大木桌子(WODEN Table)</WODENTable.label>
+  <WODENTable.description>质量不太好的亚子但能用！</WODENTable.description>
+  <WODENTable_Blueprint.label>大木桌子（蓝图）</WODENTable_Blueprint.label>
+  <WODENTable_Blueprint_Install.label>大木桌子（蓝图）</WODENTable_Blueprint_Install.label>
+  <WODENTable_Frame.label>大木桌子（建筑）</WODENTable_Frame.label>
+  <WODENTable_Frame.description>质量不太好的亚子但能用！</WODENTable_Frame.description>
 
 
   
 
-  <PILFURBed.label>PILFUR床(PILFUR bed)</PILFURBed.label>
+  <PILFURBed.label>PILFUR床</PILFURBed.label>
   <PILFURBed.description>PILFUR床
 为什么睡时，你可以睡地板
 上的东西，一个舒适的一堆(PILFUR bed

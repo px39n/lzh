@@ -1,13 +1,13 @@
 <LanguageData>
 
-  <Floor_DarkPlanks.label>深色木板(dark wood planks)</Floor_DarkPlanks.label>
-  <Floor_DarkPlanks.description>暗粗糙的木板。(Dark rough wood planks.)</Floor_DarkPlanks.description>
+  <Floor_DarkPlanks.label>深色粗糙木板</Floor_DarkPlanks.label>
+  <Floor_DarkPlanks.description>粗糙的木板</Floor_DarkPlanks.description>
 
-  <Floor_LightPlanks.label>光木板(light wood planks)</Floor_LightPlanks.label>
-  <Floor_LightPlanks.description>光粗糙的木板。(Light rough wood planks.)</Floor_LightPlanks.description>
+  <Floor_LightPlanks.label>略粗糙的木板</Floor_LightPlanks.label>
+  <Floor_LightPlanks.description>略粗糙的木板</Floor_LightPlanks.description>
 
-  <Floor_SmoothWood.label>光滑的木地板(smooth wood floor)</Floor_SmoothWood.label>
-  <Floor_SmoothWood.description>光滑的木地板。(Smooth wood floor.)</Floor_SmoothWood.description>
+  <Floor_SmoothWood.label>光滑的木板</Floor_SmoothWood.label>
+  <Floor_SmoothWood.description>光滑的木板</Floor_SmoothWood.description>
 
 
 </LanguageData>

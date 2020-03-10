@@ -3,163 +3,129 @@
 
   <!-- Sitting -->
 
-  <REGSITStool.label>REGSIT Stool</REGSITStool.label>
-  <REGSITStool.description>REGSIT Stool
+  <REGSITStool.label>瑞格塞老虎凳</REGSITStool.label>
+  <REGSITStool.description>瑞格塞老虎凳
+仅需一些皮革和钢材，就能得到天才般灵感创造而出的奢华感受和精致体验。
+你还在等什么？
+致敬：the Galga Ler on Achron V.</REGSITStool.description>
+  <REGSITStool_Blueprint.label>瑞格塞老虎凳（蓝图）</REGSITStool_Blueprint.label>
+  <REGSITStool_Blueprint_Install.label>瑞格塞老虎凳（蓝图）</REGSITStool_Blueprint_Install.label>
+  <REGSITStool_Frame.label>瑞格塞老虎凳（建造中）</REGSITStool_Frame.label>
+  <REGSITStool_Frame.description>瑞格塞老虎凳
+仅需一些皮革和钢材，就能得到天才般灵感创造而出的奢华感受和精致体验。
+你还在等什么？
+致敬：the Galga Ler on Achron V.</REGSITStool_Frame.description>
 
-A piece of leather and some steel - et voilà!
-An ingenious way of sitting, invented by 
-the Galga Ler on Achron V.</REGSITStool.description>
-  <REGSITStool_Blueprint.label>REGSIT Stool (blueprint)</REGSITStool_Blueprint.label>
-  <REGSITStool_Blueprint_Install.label>REGSIT Stool (blueprint)</REGSITStool_Blueprint_Install.label>
-  <REGSITStool_Frame.label>REGSIT Stool (building)</REGSITStool_Frame.label>
-  <REGSITStool_Frame.description>REGSIT Stool
+  <SITTSLABChair.label>赛拉博椅</SITTSLABChair.label>
+  <SITTSLABChair.description>赛拉博椅
+谁说石头不能做凳子？
+快来坐我，让我们一起狠狠的打那些人的脸！</SITTSLABChair.description>
+  <SITTSLABChair_Blueprint.label>赛拉博椅(blueprint)</SITTSLABChair_Blueprint.label>
+  <SITTSLABChair_Blueprint_Install.label>赛拉博椅(blueprint)</SITTSLABChair_Blueprint_Install.label>
+  <SITTSLABChair_Frame.label>赛拉博椅(building)</SITTSLABChair_Frame.label>
+  <SITTSLABChair_Frame.description>赛拉博椅
+谁说石头不能做凳子？
+快来坐我，让我们一起狠狠的打那些人的脸！</SITTSLABChair_Frame.description>
 
-A piece of leather and some steel - et voilà!
-An ingenious way of sitting, invented by 
-the Galga Ler on Achron V.</REGSITStool_Frame.description>
+  <STAMMRESTChair.label>斯坦瑞椅</STAMMRESTChair.label>
+  <STAMMRESTChair.description>斯坦瑞椅
+真实，无与伦比之椅
+只有那些于废墟重生的红树之人才能乘坐</STAMMRESTChair.description>
+  <STAMMRESTChair_Blueprint.label>斯坦瑞椅(blueprint)</STAMMRESTChair_Blueprint.label>
+  <STAMMRESTChair_Blueprint_Install.label>斯坦瑞椅(blueprint)</STAMMRESTChair_Blueprint_Install.label>
+  <STAMMRESTChair_Frame.label>斯坦瑞椅(building)</STAMMRESTChair_Frame.label>
+  <STAMMRESTChair_Frame.description>斯坦瑞椅
+真实，无与伦比之椅
+只有那些于废墟重生的红树之人才能乘坐</STAMMRESTChair_Frame.description>
 
-  <SITTSLABChair.label>SITTSLAB chair</SITTSLABChair.label>
-  <SITTSLABChair.description>SITTSLAB chair
+  <PILREKLINCouch.label>皮拉林长凳</PILREKLINCouch.label>
+  <PILREKLINCouch.description>皮拉林长凳
+皮革与纤维的交响乐，造就触感上的奢华感受</PILREKLINCouch.description>
+  <PILREKLINCouch_Blueprint.label>皮拉林长凳(blueprint)</PILREKLINCouch_Blueprint.label>
+  <PILREKLINCouch_Blueprint_Install.label>皮拉林长凳(blueprint)</PILREKLINCouch_Blueprint_Install.label>
+  <PILREKLINCouch_Frame.label>皮拉林长凳(building)</PILREKLINCouch_Frame.label>
+  <PILREKLINCouch_Frame.description>皮拉林长凳
+皮革与纤维的交响乐，造就触感上的奢华感受</PILREKLINCouch_Frame.description>
 
-Whoever said that stone is not comfortable?
-Prove everyone wrong with this replica
-of a perfectly comfortable stony chair.</SITTSLABChair.description>
-  <SITTSLABChair_Blueprint.label>SITTSLAB chair (blueprint)</SITTSLABChair_Blueprint.label>
-  <SITTSLABChair_Blueprint_Install.label>SITTSLAB chair (blueprint)</SITTSLABChair_Blueprint_Install.label>
-  <SITTSLABChair_Frame.label>SITTSLAB chair (building)</SITTSLABChair_Frame.label>
-  <SITTSLABChair_Frame.description>SITTSLAB chair
-
-Whoever said that stone is not comfortable?
-Prove everyone wrong with this replica
-of a perfectly comfortable stony chair.</SITTSLABChair_Frame.description>
-
-  <STAMMRESTChair.label>STAMMREST Chair</STAMMRESTChair.label>
-  <STAMMRESTChair.description>STAMMREST Chair
-
-The STAMMREST is an authentic chair,
-fashioned after those found in the ruins
-of the Red Tree People on Xentis Ham.</STAMMRESTChair.description>
-  <STAMMRESTChair_Blueprint.label>STAMMREST Chair (blueprint)</STAMMRESTChair_Blueprint.label>
-  <STAMMRESTChair_Blueprint_Install.label>STAMMREST Chair (blueprint)</STAMMRESTChair_Blueprint_Install.label>
-  <STAMMRESTChair_Frame.label>STAMMREST Chair (building)</STAMMRESTChair_Frame.label>
-  <STAMMRESTChair_Frame.description>STAMMREST Chair
-
-The STAMMREST is an authentic chair,
-fashioned after those found in the ruins
-of the Red Tree People on Xentis Ham.</STAMMRESTChair_Frame.description>
-
-  <PILREKLINCouch.label>PILREKLIN Couch</PILREKLINCouch.label>
-  <PILREKLINCouch.description>PILREKLIN Couch
-
-Recline comfortably on this carefully 
-arranged pile of leather and fabric.</PILREKLINCouch.description>
-  <PILREKLINCouch_Blueprint.label>PILREKLIN Couch (blueprint)</PILREKLINCouch_Blueprint.label>
-  <PILREKLINCouch_Blueprint_Install.label>PILREKLIN Couch (blueprint)</PILREKLINCouch_Blueprint_Install.label>
-  <PILREKLINCouch_Frame.label>PILREKLIN Couch (building)</PILREKLINCouch_Frame.label>
-  <PILREKLINCouch_Frame.description>PILREKLIN Couch
-
-Recline comfortably on this carefully 
-arranged pile of leather and fabric.</PILREKLINCouch_Frame.description>
-
-  <BUTTEKUSHPillow.label>BUTTEKUSH Pillow</BUTTEKUSHPillow.label>
-  <BUTTEKUSHPillow.description>BUTTEKUSH Pillow
-
-Rest your tushie on this plushy cushion!</BUTTEKUSHPillow.description>
-  <BUTTEKUSHPillow_Blueprint.label>BUTTEKUSH Pillow (blueprint)</BUTTEKUSHPillow_Blueprint.label>
-  <BUTTEKUSHPillow_Blueprint_Install.label>BUTTEKUSH Pillow (blueprint)</BUTTEKUSHPillow_Blueprint_Install.label>
-  <BUTTEKUSHPillow_Frame.label>BUTTEKUSH Pillow (building)</BUTTEKUSHPillow_Frame.label>
-  <BUTTEKUSHPillow_Frame.description>BUTTEKUSH Pillow
-
-Rest your tushie on this plushy cushion!</BUTTEKUSHPillow_Frame.description>
+  <BUTTEKUSHPillow.label>布卡什枕头</BUTTEKUSHPillow.label>
+  <BUTTEKUSHPillow.description>布卡什枕头
+劳碌之后，将你的大脑袋狠狠的砸在这个豪华的枕头上！</BUTTEKUSHPillow.description>
+  <BUTTEKUSHPillow_Blueprint.label>布卡什枕头(blueprint)</BUTTEKUSHPillow_Blueprint.label>
+  <BUTTEKUSHPillow_Blueprint_Install.label>布卡什枕头 (blueprint)</BUTTEKUSHPillow_Blueprint_Install.label>
+  <BUTTEKUSHPillow_Frame.label>布卡什枕头(building)</BUTTEKUSHPillow_Frame.label>
+  <BUTTEKUSHPillow_Frame.description>布卡什枕头
+劳碌之后，将你的大脑袋狠狠的砸在这个豪华的枕头上！</BUTTEKUSHPillow_Frame.description>
 
 
   <!-- Tables -->
 
-  <STAMMFLATTTable.label>STAMMFLATT Table</STAMMFLATTTable.label>
-  <STAMMFLATTTable.description>STAMMFLATT Table
+  <STAMMFLATTTable.label>司马法拉桌</STAMMFLATTTable.label>
+  <STAMMFLATTTable.description>司马法拉桌
+相传，是司马懿和法拉利在共同建造
+</STAMMFLATTTable.description>
+  <STAMMFLATTTable_Blueprint.label>司马法拉桌(blueprint)</STAMMFLATTTable_Blueprint.label>
+  <STAMMFLATTTable_Blueprint_Install.label>司马法拉桌 (blueprint)</STAMMFLATTTable_Blueprint_Install.label>
+  <STAMMFLATTTable_Frame.label>司马法拉桌 (building)</STAMMFLATTTable_Frame.label>
+  <STAMMFLATTTable_Frame.description>司马法拉桌
+相传，是司马懿和法拉利在共同建造</STAMMFLATTTable_Frame.description>
 
-The STAMMFLATT is a table, skillfully 
-crafted from logs, that goes perfectly
-with our STAMMREST chair.</STAMMFLATTTable.description>
-  <STAMMFLATTTable_Blueprint.label>STAMMFLATT Table (blueprint)</STAMMFLATTTable_Blueprint.label>
-  <STAMMFLATTTable_Blueprint_Install.label>STAMMFLATT Table (blueprint)</STAMMFLATTTable_Blueprint_Install.label>
-  <STAMMFLATTTable_Frame.label>STAMMFLATT Table (building)</STAMMFLATTTable_Frame.label>
-  <STAMMFLATTTable_Frame.description>STAMMFLATT Table
-
-The STAMMFLATT is a table, skillfully 
-crafted from logs, that goes perfectly
-with our STAMMREST chair.</STAMMFLATTTable_Frame.description>
-
-  <SLABFLATTTable.label>SLABFLATT Table</SLABFLATTTable.label>
-  <SLABFLATTTable.description>SLABFLATT Table
-
-This splendidly designed stone table is the
-perfect center-piece for any dining room!</SLABFLATTTable.description>
-  <SLABFLATTTable_Blueprint.label>SLABFLATT Table (blueprint)</SLABFLATTTable_Blueprint.label>
-  <SLABFLATTTable_Blueprint_Install.label>SLABFLATT Table (blueprint)</SLABFLATTTable_Blueprint_Install.label>
-  <SLABFLATTTable_Frame.label>SLABFLATT Table (building)</SLABFLATTTable_Frame.label>
-  <SLABFLATTTable_Frame.description>SLABFLATT Table
-
-This splendidly designed stone table is the
-perfect center-piece for any dining room!</SLABFLATTTable_Frame.description>
+  <SLABFLATTTable.label>斯塔拉桌子</SLABFLATTTable.label>
+  <SLABFLATTTable.description>斯塔拉桌子
+豪华，完美！
+将引人注目的它摆到客厅中央，让您的宾客尖叫吧！</SLABFLATTTable.description>
+  <SLABFLATTTable_Blueprint.label>斯塔拉桌子(blueprint)</SLABFLATTTable_Blueprint.label>
+  <SLABFLATTTable_Blueprint_Install.label>斯塔拉桌子(blueprint)</SLABFLATTTable_Blueprint_Install.label>
+  <SLABFLATTTable_Frame.label>斯塔拉桌子(building)</SLABFLATTTable_Frame.label>
+  <SLABFLATTTable_Frame.description>斯塔拉桌子
+豪华，完美！
+将引人注目的它摆到客厅中央，让您的宾客尖叫吧！</SLABFLATTTable_Frame.description>
 
 
   <!-- Sleeping -->
 
-  <KRUDNEPPSingle.label>KRUDNEPP Single bed</KRUDNEPPSingle.label>
-  <KRUDNEPPSingle.description>KRUDNEPP Single bed
+  <KRUDNEPPSingle.label>库拿帕单人床</KRUDNEPPSingle.label>
+  <KRUDNEPPSingle.description>库拿帕单人床
+在库拿帕单人床上小憩。
+它可能看起来有些摇晃，别担心，应该不会塌
+（RIMkea承诺不担保任何使用者的人身安全
+以及在使用我们的家具时遭受的所有伤害。 --RIMkea，法律部）</KRUDNEPPSingle.description>
+  <KRUDNEPPSingle_Blueprint.label>库拿帕单人床(blueprint)</KRUDNEPPSingle_Blueprint.label>
+  <KRUDNEPPSingle_Blueprint_Install.label>库拿帕单人床(blueprint)</KRUDNEPPSingle_Blueprint_Install.label>
+  <KRUDNEPPSingle_Frame.label>库拿帕单人床(building)</KRUDNEPPSingle_Frame.label>
+  <KRUDNEPPSingle_Frame.description>库拿帕单人床
+在库拿帕单人床上小憩。
+它可能看起来有些摇晃，别担心，应该不会塌
+（RIMkea承诺不担保任何使用者的人身安全
+以及在使用我们的家具时遭受的所有伤害。 --RIMkea，法律部）</KRUDNEPPSingle_Frame.description>
 
-Take a nap on the KRUDNEPP! 
-It may look a bit rickety, but don't worry,
-it is perfectly safe to sleep on!*
+  <SLABNEPPDouble.label>四拉皮双人床</SLABNEPPDouble.label>
+  <SLABNEPPDouble.description>四拉皮双人床
+这张手工制作的石床，展现出错综复杂的
+被称为“碎片结”的图案，和缠绕的双头蛇一样美丽。</SLABNEPPDouble.description>
+  <SLABNEPPDouble_Blueprint.label>四拉皮双人床(blueprint)</SLABNEPPDouble_Blueprint.label>
+  <SLABNEPPDouble_Blueprint_Install.label>四拉皮双人床 (blueprint)</SLABNEPPDouble_Blueprint_Install.label>
+  <SLABNEPPDouble_Frame.label>四拉皮双人床 (building)</SLABNEPPDouble_Frame.label>
+  <SLABNEPPDouble_Frame.description>四拉皮双人床
+这张手工制作的石床，展现出错综复杂的
+被称为“碎片结”的图案，和缠绕的双头蛇一样美丽</SLABNEPPDouble_Frame.description>
 
-(*for one person. RIMkea is not liable for any 
-and all injuries sustained while 
-using our furniture. --RIMkea, Legal Dept.)</KRUDNEPPSingle.description>
-  <KRUDNEPPSingle_Blueprint.label>KRUDNEPP Single bed (blueprint)</KRUDNEPPSingle_Blueprint.label>
-  <KRUDNEPPSingle_Blueprint_Install.label>KRUDNEPP Single bed (blueprint)</KRUDNEPPSingle_Blueprint_Install.label>
-  <KRUDNEPPSingle_Frame.label>KRUDNEPP Single bed (building)</KRUDNEPPSingle_Frame.label>
-  <KRUDNEPPSingle_Frame.description>KRUDNEPP Single bed
+  <SNORHOI.label>斯诺和动物垫</SNORHOI.label>
+  <SNORHOI.description>斯诺和动物垫
+  
+"你的动物需要的不仅是你的关爱
+还有柔软坚韧的斯诺和动物垫."
 
-Take a nap on the KRUDNEPP! 
-It may look a bit rickety, but don't worry,
-it is perfectly safe to sleep on!*
+* - 周恩来**
+</SNORHOI.description>
+  <SNORHOI_Blueprint.label>斯诺和动物垫 (blueprint)</SNORHOI_Blueprint.label>
+  <SNORHOI_Blueprint_Install.label>斯诺和动物垫 (blueprint)</SNORHOI_Blueprint_Install.label>
+  <SNORHOI_Frame.label>斯诺和动物垫 (building)</SNORHOI_Frame.label>
+  <SNORHOI_Frame.description>斯诺和动物垫
+  
+"你的动物需要的不仅是你的关爱
+还有柔软坚韧的斯诺和动物垫."
 
-(*for one person. RIMkea is not liable for any 
-and all injuries sustained while 
-using our furniture. --RIMkea, Legal Dept.)</KRUDNEPPSingle_Frame.description>
-
-  <SLABNEPPDouble.label>SLABNEPP Double bed</SLABNEPPDouble.label>
-  <SLABNEPPDouble.description>SLABNEPP Double bed
-
-This hand-crafted stone bed, showing an intricate
-pattern known as "Billa-of-the-Crag Knot",
-is as beautiful as it is comfortable (fits two people).</SLABNEPPDouble.description>
-  <SLABNEPPDouble_Blueprint.label>SLABNEPP Double bed (blueprint)</SLABNEPPDouble_Blueprint.label>
-  <SLABNEPPDouble_Blueprint_Install.label>SLABNEPP Double bed (blueprint)</SLABNEPPDouble_Blueprint_Install.label>
-  <SLABNEPPDouble_Frame.label>SLABNEPP Double bed (building)</SLABNEPPDouble_Frame.label>
-  <SLABNEPPDouble_Frame.description>SLABNEPP Double bed
-
-This hand-crafted stone bed, showing an intricate
-pattern known as "Billa-of-the-Crag Knot",
-is as beautiful as it is comfortable (fits two people).</SLABNEPPDouble_Frame.description>
-
-  <SNORHOI.label>SNORHOI animal bed</SNORHOI.label>
-  <SNORHOI.description>SNORHOI animal bed
-
-"All your animals need, is your love, 
-a bit of kibble, and a SNORHOI."* - Great Philosopher**
-
-(*loosely translated; **Anonymous)</SNORHOI.description>
-  <SNORHOI_Blueprint.label>SNORHOI animal bed (blueprint)</SNORHOI_Blueprint.label>
-  <SNORHOI_Blueprint_Install.label>SNORHOI animal bed (blueprint)</SNORHOI_Blueprint_Install.label>
-  <SNORHOI_Frame.label>SNORHOI animal bed (building)</SNORHOI_Frame.label>
-  <SNORHOI_Frame.description>SNORHOI animal bed
-
-"All your animals need, is your love, 
-a bit of kibble, and a SNORHOI."* - Great Philosopher**
-
-(*loosely translated; **Anonymous)</SNORHOI_Frame.description>
+* - 周恩来**</SNORHOI_Frame.description>
 
 
   <!-- Lighting -->

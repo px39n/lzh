@@ -2,17 +2,17 @@
 
   
 
-  <BULDRESTStool.label>BULDREST凳子</BULDRESTStool.label>
+  <BULDRESTStool.label>张三凳子</BULDRESTStool.label>
   <BULDRESTStool.description>坐在石头堆上总比什么都没有好！</BULDRESTStool.description>
-  <BULDRESTStool_Blueprint.label>BULDREST凳子（蓝图）</BULDRESTStool_Blueprint.label>
-  <BULDRESTStool_Blueprint_Install.label>BULDREST凳子（蓝图）</BULDRESTStool_Blueprint_Install.label>
-  <BULDRESTStool_Frame.label>BULDREST（建造中）</BULDRESTStool_Frame.label>
+  <BULDRESTStool_Blueprint.label>张三凳子（蓝图）</BULDRESTStool_Blueprint.label>
+  <BULDRESTStool_Blueprint_Install.label>张三凳子（蓝图）</BULDRESTStool_Blueprint_Install.label>
+  <BULDRESTStool_Frame.label>张三凳子（建造中）</BULDRESTStool_Frame.label>
   <BULDRESTStool_Frame.description>坐在石头堆上总比什么都没有好！)</BULDRESTStool_Frame.description>
 
 
   
 
-  <WODENTable.label>大木桌子(WODEN Table)</WODENTable.label>
+  <WODENTable.label>大木桌子</WODENTable.label>
   <WODENTable.description>质量不太好的亚子但能用！</WODENTable.description>
   <WODENTable_Blueprint.label>大木桌子（蓝图）</WODENTable_Blueprint.label>
   <WODENTable_Blueprint_Install.label>大木桌子（蓝图）</WODENTable_Blueprint_Install.label>
@@ -22,25 +22,17 @@
 
   
 
-  <PILFURBed.label>PILFUR床</PILFURBed.label>
-  <PILFURBed.description>PILFUR床
-为什么睡时，你可以睡地板
-上的东西，一个舒适的一堆(PILFUR bed
-Why sleep on the floor when you can sleep
-on a comfy pile of stuff)</PILFURBed.description>
-  <PILFURBed_Blueprint.label>PILFUR床（蓝图）(PILFUR bed (blueprint))</PILFURBed_Blueprint.label>
-  <PILFURBed_Blueprint_Install.label>PILFUR床（蓝图）(PILFUR bed (blueprint))</PILFURBed_Blueprint_Install.label>
-  <PILFURBed_Frame.label>PILFUR床（建筑）(PILFUR bed (building))</PILFURBed_Frame.label>
-  <PILFURBed_Frame.description>PILFUR床
-为什么睡时，你可以睡地板
-上的东西，一个舒适的一堆(PILFUR bed
-Why sleep on the floor when you can sleep
-on a comfy pile of stuff)</PILFURBed_Frame.description>
+  <PILFURBed.label>李四床</PILFURBed.label>
+  <PILFURBed.description>一堆东西组成的床，好过睡地板。</PILFURBed.description>
+  <PILFURBed_Blueprint.label>李四床（蓝图）</PILFURBed_Blueprint.label>
+  <PILFURBed_Blueprint_Install.label>李四床（蓝图）</PILFURBed_Blueprint_Install.label>
+  <PILFURBed_Frame.label>李四床（建筑）</PILFURBed_Frame.label>
+  <PILFURBed_Frame.description>一堆东西组成的床，好过睡地板。</PILFURBed_Frame.description>
 
 
   
 
-  <KAGESHAINLamp.label>KAGESHAIN灯(KAGESHAIN Lamp)</KAGESHAINLamp.label>
+  <KAGESHAINLamp.label>KAGESHAIN灯</KAGESHAINLamp.label>
   <KAGESHAINLamp.description>KAGESHAIN灯
 再也没有出现过许多KAGESHAIN灯所产生。
 它有一个小的设计缺陷，其中防止笼

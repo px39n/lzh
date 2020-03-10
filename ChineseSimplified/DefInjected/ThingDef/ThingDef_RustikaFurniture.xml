@@ -130,33 +130,26 @@
 
   <!-- Lighting -->
 
-  <BOLTASKLamp.label>BOLTASK Lamp</BOLTASKLamp.label>
-  <BOLTASKLamp.description>BOLTASK Lamp
+  <BOLTASKLamp.label>伯塔斯克灯</BOLTASKLamp.label>
+  <BOLTASKLamp.description>伯塔斯克灯
+温暖明亮的火焰
+</BOLTASKLamp.description>
+  <BOLTASKLamp_Blueprint.label>伯塔斯克灯(blueprint)</BOLTASKLamp_Blueprint.label>
+  <BOLTASKLamp_Blueprint_Install.label>伯塔斯克灯(blueprint)</BOLTASKLamp_Blueprint_Install.label>
+  <BOLTASKLamp_Frame.label>伯塔斯克灯 (building)</BOLTASKLamp_Frame.label>
+  <BOLTASKLamp_Frame.description>伯塔斯克灯
+温暖明亮的火焰</BOLTASKLamp_Frame.description>
 
-A bright and warm little fire, 
-perfectly contained in a bowl.*
 
 (*don't leave fire unattended.)</BOLTASKLamp.description>
-  <BOLTASKLamp_Blueprint.label>BOLTASK Lamp （蓝图）</BOLTASKLamp_Blueprint.label>
-  <BOLTASKLamp_Blueprint_Install.label>BOLTASK Lamp （蓝图）</BOLTASKLamp_Blueprint_Install.label>
-  <BOLTASKLamp_Frame.label>BOLTASK Lamp （建造中）</BOLTASKLamp_Frame.label>
-  <BOLTASKLamp_Frame.description>BOLTASK Lamp
-
-A bright and warm little fire, 
-perfectly contained in a bowl.*
-
-(*don't leave fire unattended.)</BOLTASKLamp_Frame.description>
-
-
   <!-- Art -->
 
-  <KAROMUF.label>KAROMUF sculpture</KAROMUF.label>
-  <KAROMUF.description>KAROMUF sculpture
-
-The holy KAROMUFF is a creature worshiped 
-by the Cheda of the Indigo Gerbil Tribe
-on Alioth Posterius.</KAROMUF.description>
-  <KAROMUF_Blueprint_Install.label>KAROMUF sculpture （蓝图）</KAROMUF_Blueprint_Install.label>
+  <KAROMUF.label>克洛玛菲雕塑</KAROMUF.label>
+  <KAROMUF.description>克洛玛菲雕塑
+神圣克洛玛菲雕塑
+Rim历史上雕塑的里程碑
+著名神学家西罗马帝国埃德斯如是说</KAROMUF.description>
+  <KAROMUF_Blueprint_Install.label>克洛玛菲雕塑(blueprint)</KAROMUF_Blueprint_Install.label>
 
   <SMOERTIGE.label>女神雕塑</SMOERTIGE.label>
   <SMOERTIGE.description>典雅雕塑</SMOERTIGE.description>

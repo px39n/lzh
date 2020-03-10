@@ -20,9 +20,9 @@
   <SITTSLABChair.description>赛拉博椅
 谁说石头不能做凳子？
 快来坐我，让我们一起狠狠的打那些人的脸！</SITTSLABChair.description>
-  <SITTSLABChair_Blueprint.label>赛拉博椅(blueprint)</SITTSLABChair_Blueprint.label>
-  <SITTSLABChair_Blueprint_Install.label>赛拉博椅(blueprint)</SITTSLABChair_Blueprint_Install.label>
-  <SITTSLABChair_Frame.label>赛拉博椅(building)</SITTSLABChair_Frame.label>
+  <SITTSLABChair_Blueprint.label>赛拉博椅（蓝图）</SITTSLABChair_Blueprint.label>
+  <SITTSLABChair_Blueprint_Install.label>赛拉博椅（蓝图）</SITTSLABChair_Blueprint_Install.label>
+  <SITTSLABChair_Frame.label>赛拉博椅（建造中）</SITTSLABChair_Frame.label>
   <SITTSLABChair_Frame.description>赛拉博椅
 谁说石头不能做凳子？
 快来坐我，让我们一起狠狠的打那些人的脸！</SITTSLABChair_Frame.description>
@@ -31,9 +31,9 @@
   <STAMMRESTChair.description>斯坦瑞椅
 真实，无与伦比之椅
 只有那些于废墟重生的红树之人才能乘坐</STAMMRESTChair.description>
-  <STAMMRESTChair_Blueprint.label>斯坦瑞椅(blueprint)</STAMMRESTChair_Blueprint.label>
-  <STAMMRESTChair_Blueprint_Install.label>斯坦瑞椅(blueprint)</STAMMRESTChair_Blueprint_Install.label>
-  <STAMMRESTChair_Frame.label>斯坦瑞椅(building)</STAMMRESTChair_Frame.label>
+  <STAMMRESTChair_Blueprint.label>斯坦瑞椅（蓝图）</STAMMRESTChair_Blueprint.label>
+  <STAMMRESTChair_Blueprint_Install.label>斯坦瑞椅（蓝图）</STAMMRESTChair_Blueprint_Install.label>
+  <STAMMRESTChair_Frame.label>斯坦瑞椅（建造中）</STAMMRESTChair_Frame.label>
   <STAMMRESTChair_Frame.description>斯坦瑞椅
 真实，无与伦比之椅
 只有那些于废墟重生的红树之人才能乘坐</STAMMRESTChair_Frame.description>
@@ -41,18 +41,18 @@
   <PILREKLINCouch.label>皮拉林长凳</PILREKLINCouch.label>
   <PILREKLINCouch.description>皮拉林长凳
 皮革与纤维的交响乐，造就触感上的奢华感受</PILREKLINCouch.description>
-  <PILREKLINCouch_Blueprint.label>皮拉林长凳(blueprint)</PILREKLINCouch_Blueprint.label>
-  <PILREKLINCouch_Blueprint_Install.label>皮拉林长凳(blueprint)</PILREKLINCouch_Blueprint_Install.label>
-  <PILREKLINCouch_Frame.label>皮拉林长凳(building)</PILREKLINCouch_Frame.label>
+  <PILREKLINCouch_Blueprint.label>皮拉林长凳（蓝图）</PILREKLINCouch_Blueprint.label>
+  <PILREKLINCouch_Blueprint_Install.label>皮拉林长凳（蓝图）</PILREKLINCouch_Blueprint_Install.label>
+  <PILREKLINCouch_Frame.label>皮拉林长凳（建造中）</PILREKLINCouch_Frame.label>
   <PILREKLINCouch_Frame.description>皮拉林长凳
 皮革与纤维的交响乐，造就触感上的奢华感受</PILREKLINCouch_Frame.description>
 
   <BUTTEKUSHPillow.label>布卡什枕头</BUTTEKUSHPillow.label>
   <BUTTEKUSHPillow.description>布卡什枕头
 劳碌之后，将你的大脑袋狠狠的砸在这个豪华的枕头上！</BUTTEKUSHPillow.description>
-  <BUTTEKUSHPillow_Blueprint.label>布卡什枕头(blueprint)</BUTTEKUSHPillow_Blueprint.label>
-  <BUTTEKUSHPillow_Blueprint_Install.label>布卡什枕头 (blueprint)</BUTTEKUSHPillow_Blueprint_Install.label>
-  <BUTTEKUSHPillow_Frame.label>布卡什枕头(building)</BUTTEKUSHPillow_Frame.label>
+  <BUTTEKUSHPillow_Blueprint.label>布卡什枕头（蓝图）</BUTTEKUSHPillow_Blueprint.label>
+  <BUTTEKUSHPillow_Blueprint_Install.label>布卡什枕头 （蓝图）</BUTTEKUSHPillow_Blueprint_Install.label>
+  <BUTTEKUSHPillow_Frame.label>布卡什枕头（建造中）</BUTTEKUSHPillow_Frame.label>
   <BUTTEKUSHPillow_Frame.description>布卡什枕头
 劳碌之后，将你的大脑袋狠狠的砸在这个豪华的枕头上！</BUTTEKUSHPillow_Frame.description>
 
@@ -63,9 +63,9 @@
   <STAMMFLATTTable.description>司马法拉桌
 相传，是司马懿和法拉利在共同建造
 </STAMMFLATTTable.description>
-  <STAMMFLATTTable_Blueprint.label>司马法拉桌(blueprint)</STAMMFLATTTable_Blueprint.label>
-  <STAMMFLATTTable_Blueprint_Install.label>司马法拉桌 (blueprint)</STAMMFLATTTable_Blueprint_Install.label>
-  <STAMMFLATTTable_Frame.label>司马法拉桌 (building)</STAMMFLATTTable_Frame.label>
+  <STAMMFLATTTable_Blueprint.label>司马法拉桌（蓝图）</STAMMFLATTTable_Blueprint.label>
+  <STAMMFLATTTable_Blueprint_Install.label>司马法拉桌 （蓝图）</STAMMFLATTTable_Blueprint_Install.label>
+  <STAMMFLATTTable_Frame.label>司马法拉桌 （建造中）</STAMMFLATTTable_Frame.label>
   <STAMMFLATTTable_Frame.description>司马法拉桌
 相传，是司马懿和法拉利在共同建造</STAMMFLATTTable_Frame.description>
 
@@ -73,9 +73,9 @@
   <SLABFLATTTable.description>斯塔拉桌子
 豪华，完美！
 将引人注目的它摆到客厅中央，让您的宾客尖叫吧！</SLABFLATTTable.description>
-  <SLABFLATTTable_Blueprint.label>斯塔拉桌子(blueprint)</SLABFLATTTable_Blueprint.label>
-  <SLABFLATTTable_Blueprint_Install.label>斯塔拉桌子(blueprint)</SLABFLATTTable_Blueprint_Install.label>
-  <SLABFLATTTable_Frame.label>斯塔拉桌子(building)</SLABFLATTTable_Frame.label>
+  <SLABFLATTTable_Blueprint.label>斯塔拉桌子（蓝图）</SLABFLATTTable_Blueprint.label>
+  <SLABFLATTTable_Blueprint_Install.label>斯塔拉桌子（蓝图）</SLABFLATTTable_Blueprint_Install.label>
+  <SLABFLATTTable_Frame.label>斯塔拉桌子（建造中）</SLABFLATTTable_Frame.label>
   <SLABFLATTTable_Frame.description>斯塔拉桌子
 豪华，完美！
 将引人注目的它摆到客厅中央，让您的宾客尖叫吧！</SLABFLATTTable_Frame.description>
@@ -89,9 +89,9 @@
 它可能看起来有些摇晃，别担心，应该不会塌
 （RIMkea承诺不担保任何使用者的人身安全
 以及在使用我们的家具时遭受的所有伤害。 --RIMkea，法律部）</KRUDNEPPSingle.description>
-  <KRUDNEPPSingle_Blueprint.label>库拿帕单人床(blueprint)</KRUDNEPPSingle_Blueprint.label>
-  <KRUDNEPPSingle_Blueprint_Install.label>库拿帕单人床(blueprint)</KRUDNEPPSingle_Blueprint_Install.label>
-  <KRUDNEPPSingle_Frame.label>库拿帕单人床(building)</KRUDNEPPSingle_Frame.label>
+  <KRUDNEPPSingle_Blueprint.label>库拿帕单人床（蓝图）</KRUDNEPPSingle_Blueprint.label>
+  <KRUDNEPPSingle_Blueprint_Install.label>库拿帕单人床（蓝图）</KRUDNEPPSingle_Blueprint_Install.label>
+  <KRUDNEPPSingle_Frame.label>库拿帕单人床（建造中）</KRUDNEPPSingle_Frame.label>
   <KRUDNEPPSingle_Frame.description>库拿帕单人床
 在库拿帕单人床上小憩。
 它可能看起来有些摇晃，别担心，应该不会塌
@@ -102,9 +102,9 @@
   <SLABNEPPDouble.description>四拉皮双人床
 这张手工制作的石床，展现出错综复杂的
 被称为“碎片结”的图案，和缠绕的双头蛇一样美丽。</SLABNEPPDouble.description>
-  <SLABNEPPDouble_Blueprint.label>四拉皮双人床(blueprint)</SLABNEPPDouble_Blueprint.label>
-  <SLABNEPPDouble_Blueprint_Install.label>四拉皮双人床 (blueprint)</SLABNEPPDouble_Blueprint_Install.label>
-  <SLABNEPPDouble_Frame.label>四拉皮双人床 (building)</SLABNEPPDouble_Frame.label>
+  <SLABNEPPDouble_Blueprint.label>四拉皮双人床（蓝图）</SLABNEPPDouble_Blueprint.label>
+  <SLABNEPPDouble_Blueprint_Install.label>四拉皮双人床 （蓝图）</SLABNEPPDouble_Blueprint_Install.label>
+  <SLABNEPPDouble_Frame.label>四拉皮双人床 （建造中）</SLABNEPPDouble_Frame.label>
   <SLABNEPPDouble_Frame.description>四拉皮双人床
 这张手工制作的石床，展现出错综复杂的
 被称为“碎片结”的图案，和缠绕的双头蛇一样美丽</SLABNEPPDouble_Frame.description>
@@ -117,9 +117,9 @@
 
 * - 周恩来**
 </SNORHOI.description>
-  <SNORHOI_Blueprint.label>斯诺和动物垫 (blueprint)</SNORHOI_Blueprint.label>
-  <SNORHOI_Blueprint_Install.label>斯诺和动物垫 (blueprint)</SNORHOI_Blueprint_Install.label>
-  <SNORHOI_Frame.label>斯诺和动物垫 (building)</SNORHOI_Frame.label>
+  <SNORHOI_Blueprint.label>斯诺和动物垫 （蓝图）</SNORHOI_Blueprint.label>
+  <SNORHOI_Blueprint_Install.label>斯诺和动物垫 （蓝图）</SNORHOI_Blueprint_Install.label>
+  <SNORHOI_Frame.label>斯诺和动物垫 （建造中）</SNORHOI_Frame.label>
   <SNORHOI_Frame.description>斯诺和动物垫
   
 "你的动物需要的不仅是你的关爱
@@ -137,9 +137,9 @@ A bright and warm little fire,
 perfectly contained in a bowl.*
 
 (*don't leave fire unattended.)</BOLTASKLamp.description>
-  <BOLTASKLamp_Blueprint.label>BOLTASK Lamp (blueprint)</BOLTASKLamp_Blueprint.label>
-  <BOLTASKLamp_Blueprint_Install.label>BOLTASK Lamp (blueprint)</BOLTASKLamp_Blueprint_Install.label>
-  <BOLTASKLamp_Frame.label>BOLTASK Lamp (building)</BOLTASKLamp_Frame.label>
+  <BOLTASKLamp_Blueprint.label>BOLTASK Lamp （蓝图）</BOLTASKLamp_Blueprint.label>
+  <BOLTASKLamp_Blueprint_Install.label>BOLTASK Lamp （蓝图）</BOLTASKLamp_Blueprint_Install.label>
+  <BOLTASKLamp_Frame.label>BOLTASK Lamp （建造中）</BOLTASKLamp_Frame.label>
   <BOLTASKLamp_Frame.description>BOLTASK Lamp
 
 A bright and warm little fire, 
@@ -156,100 +156,53 @@ perfectly contained in a bowl.*
 The holy KAROMUFF is a creature worshiped 
 by the Cheda of the Indigo Gerbil Tribe
 on Alioth Posterius.</KAROMUF.description>
-  <KAROMUF_Blueprint_Install.label>KAROMUF sculpture (blueprint)</KAROMUF_Blueprint_Install.label>
+  <KAROMUF_Blueprint_Install.label>KAROMUF sculpture （蓝图）</KAROMUF_Blueprint_Install.label>
 
-  <SMOERTIGE.label>SMOERTIGE sculpture</SMOERTIGE.label>
-  <SMOERTIGE.description>SMOERTIGE sculpture
+  <SMOERTIGE.label>女神雕塑</SMOERTIGE.label>
+  <SMOERTIGE.description>典雅雕塑</SMOERTIGE.description>
+  <SMOERTIGE_Blueprint_Install.label>女神雕塑 （蓝图）</SMOERTIGE_Blueprint_Install.label>
 
-This stunning statue is a likeness
-of "Anha the Graceful" a matriarch of 
-the Gray People Tribe known to be
-a dazzling and exquisite beauty.</SMOERTIGE.description>
-  <SMOERTIGE_Blueprint_Install.label>SMOERTIGE sculpture (blueprint)</SMOERTIGE_Blueprint_Install.label>
-
-  <LORDOKI.label>LORDOKI sculpture</LORDOKI.label>
-  <LORDOKI.description>LORDOKI sculpture
-
-This statue depicts the wolf-like god
-named "LORDOKI", worshiped by the
-Purple Lobster Crouca on Aldhafera XI</LORDOKI.description>
-  <LORDOKI_Blueprint_Install.label>LORDOKI sculpture (blueprint)</LORDOKI_Blueprint_Install.label>
+  <LORDOKI.label>狼人雕塑</LORDOKI.label>
+  <LORDOKI.description>造出来就是个狼的样子！</LORDOKI.description>
+  <LORDOKI_Blueprint_Install.label>狼人雕塑 （蓝图）</LORDOKI_Blueprint_Install.label>
 
 
   <!-- Decor -->
 
-  <BLUMTASK.label>BLUMTASK plant pot</BLUMTASK.label>
-  <BLUMTASK.description>BLUMTASK plant pot
+  <BLUMTASK.label>鹦鹉螺花盆</BLUMTASK.label>
+  <BLUMTASK.description>炒鸡可爱又像牛角又像鹦鹉螺的大花盆！</BLUMTASK.description>
+  <BLUMTASK_Blueprint.label>鹦鹉螺花盆 （蓝图）</BLUMTASK_Blueprint.label>
+  <BLUMTASK_Blueprint_Install.label>鹦鹉螺花盆 （蓝图）</BLUMTASK_Blueprint_Install.label>
+  <BLUMTASK_Frame.label>鹦鹉螺花盆 （建造中）</BLUMTASK_Frame.label>
+  <BLUMTASK_Frame.description>炒鸡可爱又像牛角又像鹦鹉螺的大花盆！</BLUMTASK_Frame.description>
 
-Designed by the honorable Shinzhor
-of Shinzaram, this lovely horn offers
-a charming alternative to plant your 
-flowers in.</BLUMTASK.description>
-  <BLUMTASK_Blueprint.label>BLUMTASK plant pot (blueprint)</BLUMTASK_Blueprint.label>
-  <BLUMTASK_Blueprint_Install.label>BLUMTASK plant pot (blueprint)</BLUMTASK_Blueprint_Install.label>
-  <BLUMTASK_Frame.label>BLUMTASK plant pot (building)</BLUMTASK_Frame.label>
-  <BLUMTASK_Frame.description>BLUMTASK plant pot
+  <aFLIKFUTRug.label>野人地毯</aFLIKFUTRug.label>
+  <aFLIKFUTRug.description>狂野的感觉~</aFLIKFUTRug.description>
+  <aFLIKFUTRug_Blueprint.label>野人地毯 （蓝图）</aFLIKFUTRug_Blueprint.label>
+  <aFLIKFUTRug_Blueprint_Install.label>野人地毯 （蓝图）</aFLIKFUTRug_Blueprint_Install.label>
+  <aFLIKFUTRug_Frame.label>野人地毯 （建造中）</aFLIKFUTRug_Frame.label>
+  <aFLIKFUTRug_Frame.description>狂野的感觉~</aFLIKFUTRug_Frame.description>
 
-Designed by the honorable Shinzhor
-of Shinzaram, this lovely horn offers
-a charming alternative to plant your 
-flowers in.</BLUMTASK_Frame.description>
+  <MATIPESSIRug.label>马蹄佩斯地毯</MATIPESSIRug.label>
+  <MATIPESSIRug.description>漂亮的部落风格小地毯！</MATIPESSIRug.description>
+  <MATIPESSIRug_Blueprint.label>马蹄佩斯地毯 （蓝图）</MATIPESSIRug_Blueprint.label>
+  <MATIPESSIRug_Blueprint_Install.label>马蹄佩斯地毯 （蓝图）</MATIPESSIRug_Blueprint_Install.label>
+  <MATIPESSIRug_Frame.label>马蹄佩斯地毯 （建造中）</MATIPESSIRug_Frame.label>
+  <MATIPESSIRug_Frame.description>漂亮的部落风格小地毯！</MATIPESSIRug_Frame.description>
 
-  <aFLIKFUTRug.label>FLIKFUT Rug</aFLIKFUTRug.label>
-  <aFLIKFUTRug.description>FLIKFUT Rug
+  <MISKANTAARug.label>弥斯堪塔地毯</MISKANTAARug.label>
+  <MISKANTAARug.description>花里胡哨反正就是很好看的地毯！</MISKANTAARug.description>
+  <MISKANTAARug_Blueprint.label>弥斯堪塔地毯 （蓝图）</MISKANTAARug_Blueprint.label>
+  <MISKANTAARug_Blueprint_Install.label>弥斯堪塔地毯 （蓝图）</MISKANTAARug_Blueprint_Install.label>
+  <MISKANTAARug_Frame.label>弥斯堪塔地毯 （建造中）</MISKANTAARug_Frame.label>
+  <MISKANTAARug_Frame.description>花里胡哨反正就是很好看的地毯！</MISKANTAARug_Frame.description>
 
-Five pieces of leather, fit together
-into a beautifully savage-looking
-rug to decorate your home with!</aFLIKFUTRug.description>
-  <aFLIKFUTRug_Blueprint.label>FLIKFUT Rug (blueprint)</aFLIKFUTRug_Blueprint.label>
-  <aFLIKFUTRug_Blueprint_Install.label>FLIKFUT Rug (blueprint)</aFLIKFUTRug_Blueprint_Install.label>
-  <aFLIKFUTRug_Frame.label>FLIKFUT Rug (building)</aFLIKFUTRug_Frame.label>
-  <aFLIKFUTRug_Frame.description>FLIKFUT Rug
-
-Five pieces of leather, fit together
-into a beautifully savage-looking
-rug to decorate your home with!</aFLIKFUTRug_Frame.description>
-
-  <MATIPESSIRug.label>MATIPESSI Rug</MATIPESSIRug.label>
-  <MATIPESSIRug.description>MATIPESSI Rug
-
-A charming little rug in the style of 
-the Abeneiro of Llama Tribe.</MATIPESSIRug.description>
-  <MATIPESSIRug_Blueprint.label>MATIPESSI Rug (blueprint)</MATIPESSIRug_Blueprint.label>
-  <MATIPESSIRug_Blueprint_Install.label>MATIPESSI Rug (blueprint)</MATIPESSIRug_Blueprint_Install.label>
-  <MATIPESSIRug_Frame.label>MATIPESSI Rug (building)</MATIPESSIRug_Frame.label>
-  <MATIPESSIRug_Frame.description>MATIPESSI Rug
-
-A charming little rug in the style of 
-the Abeneiro of Llama Tribe.</MATIPESSIRug_Frame.description>
-
-  <MISKANTAARug.label>MISKANTAA Rug</MISKANTAARug.label>
-  <MISKANTAARug.description>MISKANTAA Rug
-
-This piece of art, in the form of a rug,
-shows a marvelous design used by the
-Caxigo Braga people on Achrid I.</MISKANTAARug.description>
-  <MISKANTAARug_Blueprint.label>MISKANTAA Rug (blueprint)</MISKANTAARug_Blueprint.label>
-  <MISKANTAARug_Blueprint_Install.label>MISKANTAA Rug (blueprint)</MISKANTAARug_Blueprint_Install.label>
-  <MISKANTAARug_Frame.label>MISKANTAA Rug (building)</MISKANTAARug_Frame.label>
-  <MISKANTAARug_Frame.description>MISKANTAA Rug
-
-This piece of art, in the form of a rug,
-shows a marvelous design used by the
-Caxigo Braga people on Achrid I.</MISKANTAARug_Frame.description>
-
-  <HOISTEPRug.label>HOISTEP Rug</HOISTEPRug.label>
-  <HOISTEPRug.description>HOISTEP Rug
-
-Give your home that "barnyard feel" 
-with this artfully arranged collection of hay.</HOISTEPRug.description>
-  <HOISTEPRug_Blueprint.label>HOISTEP Rug (blueprint)</HOISTEPRug_Blueprint.label>
-  <HOISTEPRug_Blueprint_Install.label>HOISTEP Rug (blueprint)</HOISTEPRug_Blueprint_Install.label>
-  <HOISTEPRug_Frame.label>HOISTEP Rug (building)</HOISTEPRug_Frame.label>
-  <HOISTEPRug_Frame.description>HOISTEP Rug
-
-Give your home that "barnyard feel" 
-with this artfully arranged collection of hay.</HOISTEPRug_Frame.description>
+  <HOISTEPRug.label>干草地毯</HOISTEPRug.label>
+  <HOISTEPRug.description>像动物一样拥有干草！</HOISTEPRug.description>
+  <HOISTEPRug_Blueprint.label>干草地毯 （蓝图）</HOISTEPRug_Blueprint.label>
+  <HOISTEPRug_Blueprint_Install.label>干草地毯 （蓝图）</HOISTEPRug_Blueprint_Install.label>
+  <HOISTEPRug_Frame.label>干草地毯 （建造中）</HOISTEPRug_Frame.label>
+  <HOISTEPRug_Frame.description>像动物一样拥有干草！</HOISTEPRug_Frame.description>
 
 
 </LanguageData>

@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sitting -->
+
+  <REGSITStool.label>REGSIT Stool</REGSITStool.label>
+  <REGSITStool.description>REGSIT Stool
+
+A piece of leather and some steel - et voilà!
+An ingenious way of sitting, invented by 
+the Galga Ler on Achron V.</REGSITStool.description>
+  <REGSITStool_Blueprint.label>REGSIT Stool (blueprint)</REGSITStool_Blueprint.label>
+  <REGSITStool_Blueprint_Install.label>REGSIT Stool (blueprint)</REGSITStool_Blueprint_Install.label>
+  <REGSITStool_Frame.label>REGSIT Stool (building)</REGSITStool_Frame.label>
+  <REGSITStool_Frame.description>REGSIT Stool
+
+A piece of leather and some steel - et voilà!
+An ingenious way of sitting, invented by 
+the Galga Ler on Achron V.</REGSITStool_Frame.description>
+
+  <SITTSLABChair.label>SITTSLAB chair</SITTSLABChair.label>
+  <SITTSLABChair.description>SITTSLAB chair
+
+Whoever said that stone is not comfortable?
+Prove everyone wrong with this replica
+of a perfectly comfortable stony chair.</SITTSLABChair.description>
+  <SITTSLABChair_Blueprint.label>SITTSLAB chair (blueprint)</SITTSLABChair_Blueprint.label>
+  <SITTSLABChair_Blueprint_Install.label>SITTSLAB chair (blueprint)</SITTSLABChair_Blueprint_Install.label>
+  <SITTSLABChair_Frame.label>SITTSLAB chair (building)</SITTSLABChair_Frame.label>
+  <SITTSLABChair_Frame.description>SITTSLAB chair
+
+Whoever said that stone is not comfortable?
+Prove everyone wrong with this replica
+of a perfectly comfortable stony chair.</SITTSLABChair_Frame.description>
+
+  <STAMMRESTChair.label>STAMMREST Chair</STAMMRESTChair.label>
+  <STAMMRESTChair.description>STAMMREST Chair
+
+The STAMMREST is an authentic chair,
+fashioned after those found in the ruins
+of the Red Tree People on Xentis Ham.</STAMMRESTChair.description>
+  <STAMMRESTChair_Blueprint.label>STAMMREST Chair (blueprint)</STAMMRESTChair_Blueprint.label>
+  <STAMMRESTChair_Blueprint_Install.label>STAMMREST Chair (blueprint)</STAMMRESTChair_Blueprint_Install.label>
+  <STAMMRESTChair_Frame.label>STAMMREST Chair (building)</STAMMRESTChair_Frame.label>
+  <STAMMRESTChair_Frame.description>STAMMREST Chair
+
+The STAMMREST is an authentic chair,
+fashioned after those found in the ruins
+of the Red Tree People on Xentis Ham.</STAMMRESTChair_Frame.description>
+
+  <PILREKLINCouch.label>PILREKLIN Couch</PILREKLINCouch.label>
+  <PILREKLINCouch.description>PILREKLIN Couch
+
+Recline comfortably on this carefully 
+arranged pile of leather and fabric.</PILREKLINCouch.description>
+  <PILREKLINCouch_Blueprint.label>PILREKLIN Couch (blueprint)</PILREKLINCouch_Blueprint.label>
+  <PILREKLINCouch_Blueprint_Install.label>PILREKLIN Couch (blueprint)</PILREKLINCouch_Blueprint_Install.label>
+  <PILREKLINCouch_Frame.label>PILREKLIN Couch (building)</PILREKLINCouch_Frame.label>
+  <PILREKLINCouch_Frame.description>PILREKLIN Couch
+
+Recline comfortably on this carefully 
+arranged pile of leather and fabric.</PILREKLINCouch_Frame.description>
+
+  <BUTTEKUSHPillow.label>BUTTEKUSH Pillow</BUTTEKUSHPillow.label>
+  <BUTTEKUSHPillow.description>BUTTEKUSH Pillow
+
+Rest your tushie on this plushy cushion!</BUTTEKUSHPillow.description>
+  <BUTTEKUSHPillow_Blueprint.label>BUTTEKUSH Pillow (blueprint)</BUTTEKUSHPillow_Blueprint.label>
+  <BUTTEKUSHPillow_Blueprint_Install.label>BUTTEKUSH Pillow (blueprint)</BUTTEKUSHPillow_Blueprint_Install.label>
+  <BUTTEKUSHPillow_Frame.label>BUTTEKUSH Pillow (building)</BUTTEKUSHPillow_Frame.label>
+  <BUTTEKUSHPillow_Frame.description>BUTTEKUSH Pillow
+
+Rest your tushie on this plushy cushion!</BUTTEKUSHPillow_Frame.description>
+
+
+  <!-- Tables -->
+
+  <STAMMFLATTTable.label>STAMMFLATT Table</STAMMFLATTTable.label>
+  <STAMMFLATTTable.description>STAMMFLATT Table
+
+The STAMMFLATT is a table, skillfully 
+crafted from logs, that goes perfectly
+with our STAMMREST chair.</STAMMFLATTTable.description>
+  <STAMMFLATTTable_Blueprint.label>STAMMFLATT Table (blueprint)</STAMMFLATTTable_Blueprint.label>
+  <STAMMFLATTTable_Blueprint_Install.label>STAMMFLATT Table (blueprint)</STAMMFLATTTable_Blueprint_Install.label>
+  <STAMMFLATTTable_Frame.label>STAMMFLATT Table (building)</STAMMFLATTTable_Frame.label>
+  <STAMMFLATTTable_Frame.description>STAMMFLATT Table
+
+The STAMMFLATT is a table, skillfully 
+crafted from logs, that goes perfectly
+with our STAMMREST chair.</STAMMFLATTTable_Frame.description>
+
+  <SLABFLATTTable.label>SLABFLATT Table</SLABFLATTTable.label>
+  <SLABFLATTTable.description>SLABFLATT Table
+
+This splendidly designed stone table is the
+perfect center-piece for any dining room!</SLABFLATTTable.description>
+  <SLABFLATTTable_Blueprint.label>SLABFLATT Table (blueprint)</SLABFLATTTable_Blueprint.label>
+  <SLABFLATTTable_Blueprint_Install.label>SLABFLATT Table (blueprint)</SLABFLATTTable_Blueprint_Install.label>
+  <SLABFLATTTable_Frame.label>SLABFLATT Table (building)</SLABFLATTTable_Frame.label>
+  <SLABFLATTTable_Frame.description>SLABFLATT Table
+
+This splendidly designed stone table is the
+perfect center-piece for any dining room!</SLABFLATTTable_Frame.description>
+
+
+  <!-- Sleeping -->
+
+  <KRUDNEPPSingle.label>KRUDNEPP Single bed</KRUDNEPPSingle.label>
+  <KRUDNEPPSingle.description>KRUDNEPP Single bed
+
+Take a nap on the KRUDNEPP! 
+It may look a bit rickety, but don't worry,
+it is perfectly safe to sleep on!*
+
+(*for one person. RIMkea is not liable for any 
+and all injuries sustained while 
+using our furniture. --RIMkea, Legal Dept.)</KRUDNEPPSingle.description>
+  <KRUDNEPPSingle_Blueprint.label>KRUDNEPP Single bed (blueprint)</KRUDNEPPSingle_Blueprint.label>
+  <KRUDNEPPSingle_Blueprint_Install.label>KRUDNEPP Single bed (blueprint)</KRUDNEPPSingle_Blueprint_Install.label>
+  <KRUDNEPPSingle_Frame.label>KRUDNEPP Single bed (building)</KRUDNEPPSingle_Frame.label>
+  <KRUDNEPPSingle_Frame.description>KRUDNEPP Single bed
+
+Take a nap on the KRUDNEPP! 
+It may look a bit rickety, but don't worry,
+it is perfectly safe to sleep on!*
+
+(*for one person. RIMkea is not liable for any 
+and all injuries sustained while 
+using our furniture. --RIMkea, Legal Dept.)</KRUDNEPPSingle_Frame.description>
+
+  <SLABNEPPDouble.label>SLABNEPP Double bed</SLABNEPPDouble.label>
+  <SLABNEPPDouble.description>SLABNEPP Double bed
+
+This hand-crafted stone bed, showing an intricate
+pattern known as "Billa-of-the-Crag Knot",
+is as beautiful as it is comfortable (fits two people).</SLABNEPPDouble.description>
+  <SLABNEPPDouble_Blueprint.label>SLABNEPP Double bed (blueprint)</SLABNEPPDouble_Blueprint.label>
+  <SLABNEPPDouble_Blueprint_Install.label>SLABNEPP Double bed (blueprint)</SLABNEPPDouble_Blueprint_Install.label>
+  <SLABNEPPDouble_Frame.label>SLABNEPP Double bed (building)</SLABNEPPDouble_Frame.label>
+  <SLABNEPPDouble_Frame.description>SLABNEPP Double bed
+
+This hand-crafted stone bed, showing an intricate
+pattern known as "Billa-of-the-Crag Knot",
+is as beautiful as it is comfortable (fits two people).</SLABNEPPDouble_Frame.description>
+
+  <SNORHOI.label>SNORHOI animal bed</SNORHOI.label>
+  <SNORHOI.description>SNORHOI animal bed
+
+"All your animals need, is your love, 
+a bit of kibble, and a SNORHOI."* - Great Philosopher**
+
+(*loosely translated; **Anonymous)</SNORHOI.description>
+  <SNORHOI_Blueprint.label>SNORHOI animal bed (blueprint)</SNORHOI_Blueprint.label>
+  <SNORHOI_Blueprint_Install.label>SNORHOI animal bed (blueprint)</SNORHOI_Blueprint_Install.label>
+  <SNORHOI_Frame.label>SNORHOI animal bed (building)</SNORHOI_Frame.label>
+  <SNORHOI_Frame.description>SNORHOI animal bed
+
+"All your animals need, is your love, 
+a bit of kibble, and a SNORHOI."* - Great Philosopher**
+
+(*loosely translated; **Anonymous)</SNORHOI_Frame.description>
+
+
+  <!-- Lighting -->
+
+  <BOLTASKLamp.label>BOLTASK Lamp</BOLTASKLamp.label>
+  <BOLTASKLamp.description>BOLTASK Lamp
+
+A bright and warm little fire, 
+perfectly contained in a bowl.*
+
+(*don't leave fire unattended.)</BOLTASKLamp.description>
+  <BOLTASKLamp_Blueprint.label>BOLTASK Lamp (blueprint)</BOLTASKLamp_Blueprint.label>
+  <BOLTASKLamp_Blueprint_Install.label>BOLTASK Lamp (blueprint)</BOLTASKLamp_Blueprint_Install.label>
+  <BOLTASKLamp_Frame.label>BOLTASK Lamp (building)</BOLTASKLamp_Frame.label>
+  <BOLTASKLamp_Frame.description>BOLTASK Lamp
+
+A bright and warm little fire, 
+perfectly contained in a bowl.*
+
+(*don't leave fire unattended.)</BOLTASKLamp_Frame.description>
+
+
+  <!-- Art -->
+
+  <KAROMUF.label>KAROMUF sculpture</KAROMUF.label>
+  <KAROMUF.description>KAROMUF sculpture
+
+The holy KAROMUFF is a creature worshiped 
+by the Cheda of the Indigo Gerbil Tribe
+on Alioth Posterius.</KAROMUF.description>
+  <KAROMUF_Blueprint_Install.label>KAROMUF sculpture (blueprint)</KAROMUF_Blueprint_Install.label>
+
+  <SMOERTIGE.label>SMOERTIGE sculpture</SMOERTIGE.label>
+  <SMOERTIGE.description>SMOERTIGE sculpture
+
+This stunning statue is a likeness
+of "Anha the Graceful" a matriarch of 
+the Gray People Tribe known to be
+a dazzling and exquisite beauty.</SMOERTIGE.description>
+  <SMOERTIGE_Blueprint_Install.label>SMOERTIGE sculpture (blueprint)</SMOERTIGE_Blueprint_Install.label>
+
+  <LORDOKI.label>LORDOKI sculpture</LORDOKI.label>
+  <LORDOKI.description>LORDOKI sculpture
+
+This statue depicts the wolf-like god
+named "LORDOKI", worshiped by the
+Purple Lobster Crouca on Aldhafera XI</LORDOKI.description>
+  <LORDOKI_Blueprint_Install.label>LORDOKI sculpture (blueprint)</LORDOKI_Blueprint_Install.label>
+
+
+  <!-- Decor -->
+
+  <BLUMTASK.label>BLUMTASK plant pot</BLUMTASK.label>
+  <BLUMTASK.description>BLUMTASK plant pot
+
+Designed by the honorable Shinzhor
+of Shinzaram, this lovely horn offers
+a charming alternative to plant your 
+flowers in.</BLUMTASK.description>
+  <BLUMTASK_Blueprint.label>BLUMTASK plant pot (blueprint)</BLUMTASK_Blueprint.label>
+  <BLUMTASK_Blueprint_Install.label>BLUMTASK plant pot (blueprint)</BLUMTASK_Blueprint_Install.label>
+  <BLUMTASK_Frame.label>BLUMTASK plant pot (building)</BLUMTASK_Frame.label>
+  <BLUMTASK_Frame.description>BLUMTASK plant pot
+
+Designed by the honorable Shinzhor
+of Shinzaram, this lovely horn offers
+a charming alternative to plant your 
+flowers in.</BLUMTASK_Frame.description>
+
+  <aFLIKFUTRug.label>FLIKFUT Rug</aFLIKFUTRug.label>
+  <aFLIKFUTRug.description>FLIKFUT Rug
+
+Five pieces of leather, fit together
+into a beautifully savage-looking
+rug to decorate your home with!</aFLIKFUTRug.description>
+  <aFLIKFUTRug_Blueprint.label>FLIKFUT Rug (blueprint)</aFLIKFUTRug_Blueprint.label>
+  <aFLIKFUTRug_Blueprint_Install.label>FLIKFUT Rug (blueprint)</aFLIKFUTRug_Blueprint_Install.label>
+  <aFLIKFUTRug_Frame.label>FLIKFUT Rug (building)</aFLIKFUTRug_Frame.label>
+  <aFLIKFUTRug_Frame.description>FLIKFUT Rug
+
+Five pieces of leather, fit together
+into a beautifully savage-looking
+rug to decorate your home with!</aFLIKFUTRug_Frame.description>
+
+  <MATIPESSIRug.label>MATIPESSI Rug</MATIPESSIRug.label>
+  <MATIPESSIRug.description>MATIPESSI Rug
+
+A charming little rug in the style of 
+the Abeneiro of Llama Tribe.</MATIPESSIRug.description>
+  <MATIPESSIRug_Blueprint.label>MATIPESSI Rug (blueprint)</MATIPESSIRug_Blueprint.label>
+  <MATIPESSIRug_Blueprint_Install.label>MATIPESSI Rug (blueprint)</MATIPESSIRug_Blueprint_Install.label>
+  <MATIPESSIRug_Frame.label>MATIPESSI Rug (building)</MATIPESSIRug_Frame.label>
+  <MATIPESSIRug_Frame.description>MATIPESSI Rug
+
+A charming little rug in the style of 
+the Abeneiro of Llama Tribe.</MATIPESSIRug_Frame.description>
+
+  <MISKANTAARug.label>MISKANTAA Rug</MISKANTAARug.label>
+  <MISKANTAARug.description>MISKANTAA Rug
+
+This piece of art, in the form of a rug,
+shows a marvelous design used by the
+Caxigo Braga people on Achrid I.</MISKANTAARug.description>
+  <MISKANTAARug_Blueprint.label>MISKANTAA Rug (blueprint)</MISKANTAARug_Blueprint.label>
+  <MISKANTAARug_Blueprint_Install.label>MISKANTAA Rug (blueprint)</MISKANTAARug_Blueprint_Install.label>
+  <MISKANTAARug_Frame.label>MISKANTAA Rug (building)</MISKANTAARug_Frame.label>
+  <MISKANTAARug_Frame.description>MISKANTAA Rug
+
+This piece of art, in the form of a rug,
+shows a marvelous design used by the
+Caxigo Braga people on Achrid I.</MISKANTAARug_Frame.description>
+
+  <HOISTEPRug.label>HOISTEP Rug</HOISTEPRug.label>
+  <HOISTEPRug.description>HOISTEP Rug
+
+Give your home that "barnyard feel" 
+with this artfully arranged collection of hay.</HOISTEPRug.description>
+  <HOISTEPRug_Blueprint.label>HOISTEP Rug (blueprint)</HOISTEPRug_Blueprint.label>
+  <HOISTEPRug_Blueprint_Install.label>HOISTEP Rug (blueprint)</HOISTEPRug_Blueprint_Install.label>
+  <HOISTEPRug_Frame.label>HOISTEP Rug (building)</HOISTEPRug_Frame.label>
+  <HOISTEPRug_Frame.description>HOISTEP Rug
+
+Give your home that "barnyard feel" 
+with this artfully arranged collection of hay.</HOISTEPRug_Frame.description>
+
+
+</LanguageData>

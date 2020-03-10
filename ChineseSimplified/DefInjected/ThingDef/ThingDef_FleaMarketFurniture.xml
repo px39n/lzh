@@ -1,0 +1,211 @@
+<LanguageData>
+
+  
+
+  <BULDRESTStool.label>BULDREST凳(BULDREST Stool)</BULDRESTStool.label>
+  <BULDRESTStool.description>BULDREST凳
+有人认为堆叠stonechunks是
+更好地为坐在总比什么都没有。
+他们是对的。(BULDREST Stool
+Someone thought that stacked stonechunks are 
+better for sitting on than nothing.
+They were right.)</BULDRESTStool.description>
+  <BULDRESTStool_Blueprint.label>大便BULDREST（蓝图）(BULDREST Stool (blueprint))</BULDRESTStool_Blueprint.label>
+  <BULDRESTStool_Blueprint_Install.label>大便BULDREST（蓝图）(BULDREST Stool (blueprint))</BULDRESTStool_Blueprint_Install.label>
+  <BULDRESTStool_Frame.label>大便BULDREST（建筑）(BULDREST Stool (building))</BULDRESTStool_Frame.label>
+  <BULDRESTStool_Frame.description>BULDREST凳
+有人认为堆叠stonechunks是
+更好地为坐在总比什么都没有。
+他们是对的。(BULDREST Stool
+Someone thought that stacked stonechunks are 
+better for sitting on than nothing.
+They were right.)</BULDRESTStool_Frame.description>
+
+
+  
+
+  <WODENTable.label>木桌子(WODEN Table)</WODENTable.label>
+  <WODENTable.description>木桌子
+这是一张桌子。它是用木头做的。
+这是老摇摇晃晃的，而不是什么好看的，
+但它会保持你的食物掉在地上。大概。(WODEN Table
+It's a table. It's made of wood.
+It's old and rickety and not much to look at,
+but it will hold your food off the floor. Probably.)</WODENTable.description>
+  <WODENTable_Blueprint.label>木桌（蓝图）(WODEN Table (blueprint))</WODENTable_Blueprint.label>
+  <WODENTable_Blueprint_Install.label>木桌（蓝图）(WODEN Table (blueprint))</WODENTable_Blueprint_Install.label>
+  <WODENTable_Frame.label>木桌（建筑）(WODEN Table (building))</WODENTable_Frame.label>
+  <WODENTable_Frame.description>木桌子
+这是一张桌子。它是用木头做的。
+这是老摇摇晃晃的，而不是什么好看的，
+但它会保持你的食物掉在地上。大概。(WODEN Table
+It's a table. It's made of wood.
+It's old and rickety and not much to look at,
+but it will hold your food off the floor. Probably.)</WODENTable_Frame.description>
+
+
+  
+
+  <PILFURBed.label>PILFUR床(PILFUR bed)</PILFURBed.label>
+  <PILFURBed.description>PILFUR床
+为什么睡时，你可以睡地板
+上的东西，一个舒适的一堆(PILFUR bed
+Why sleep on the floor when you can sleep
+on a comfy pile of stuff)</PILFURBed.description>
+  <PILFURBed_Blueprint.label>PILFUR床（蓝图）(PILFUR bed (blueprint))</PILFURBed_Blueprint.label>
+  <PILFURBed_Blueprint_Install.label>PILFUR床（蓝图）(PILFUR bed (blueprint))</PILFURBed_Blueprint_Install.label>
+  <PILFURBed_Frame.label>PILFUR床（建筑）(PILFUR bed (building))</PILFURBed_Frame.label>
+  <PILFURBed_Frame.description>PILFUR床
+为什么睡时，你可以睡地板
+上的东西，一个舒适的一堆(PILFUR bed
+Why sleep on the floor when you can sleep
+on a comfy pile of stuff)</PILFURBed_Frame.description>
+
+
+  
+
+  <KAGESHAINLamp.label>KAGESHAIN灯(KAGESHAIN Lamp)</KAGESHAINLamp.label>
+  <KAGESHAINLamp.description>KAGESHAIN灯
+再也没有出现过许多KAGESHAIN灯所产生。
+它有一个小的设计缺陷，其中防止笼
+灯泡被替换。其实人们关心这一点。(KAGESHAIN Lamp
+There have not been many KAGESHAIN lamps produced.
+It had a small design flaw where the cage prevented
+the bulb to be replaced. People actually cared about that.)</KAGESHAINLamp.description>
+  <KAGESHAINLamp_Blueprint.label>KAGESHAIN灯（蓝图）(KAGESHAIN Lamp (blueprint))</KAGESHAINLamp_Blueprint.label>
+  <KAGESHAINLamp_Blueprint_Install.label>KAGESHAIN灯（蓝图）(KAGESHAIN Lamp (blueprint))</KAGESHAINLamp_Blueprint_Install.label>
+  <KAGESHAINLamp_Frame.label>KAGESHAIN灯（建筑物）(KAGESHAIN Lamp (building))</KAGESHAINLamp_Frame.label>
+  <KAGESHAINLamp_Frame.description>KAGESHAIN灯
+再也没有出现过许多KAGESHAIN灯所产生。
+它有一个小的设计缺陷，其中防止笼
+灯泡被替换。其实人们关心这一点。(KAGESHAIN Lamp
+There have not been many KAGESHAIN lamps produced.
+It had a small design flaw where the cage prevented
+the bulb to be replaced. People actually cared about that.)</KAGESHAINLamp_Frame.description>
+
+  <KAGESHAINLamp_Red.label>KAGESHAIN灯（红）(KAGESHAIN Lamp (red))</KAGESHAINLamp_Red.label>
+  <KAGESHAINLamp_Red.description>KAGESHAIN灯在RAD红色。
+再也没有出现过许多KAGESHAIN灯所产生。
+它有一个小的设计缺陷，其中防止笼
+灯泡被替换。其实人们关心这一点。(KAGESHAIN Lamp in rad-red.
+There have not been many KAGESHAIN lamps produced.
+It had a small design flaw where the cage prevented
+the bulb to be replaced. People actually cared about that.)</KAGESHAINLamp_Red.description>
+  <KAGESHAINLamp_Red_Blueprint.label>KAGESHAIN灯（红色）（蓝图）(KAGESHAIN Lamp (red) (blueprint))</KAGESHAINLamp_Red_Blueprint.label>
+  <KAGESHAINLamp_Red_Blueprint_Install.label>KAGESHAIN灯（红色）（蓝图）(KAGESHAIN Lamp (red) (blueprint))</KAGESHAINLamp_Red_Blueprint_Install.label>
+  <KAGESHAINLamp_Red_Frame.label>KAGESHAIN灯（红色）（建筑）(KAGESHAIN Lamp (red) (building))</KAGESHAINLamp_Red_Frame.label>
+  <KAGESHAINLamp_Red_Frame.description>KAGESHAIN灯在RAD红色。
+再也没有出现过许多KAGESHAIN灯所产生。
+它有一个小的设计缺陷，其中防止笼
+灯泡被替换。其实人们关心这一点。(KAGESHAIN Lamp in rad-red.
+There have not been many KAGESHAIN lamps produced.
+It had a small design flaw where the cage prevented
+the bulb to be replaced. People actually cared about that.)</KAGESHAINLamp_Red_Frame.description>
+
+  <KAGESHAINLamp_Green.label>KAGESHAIN指示灯（绿色）(KAGESHAIN Lamp (green))</KAGESHAINLamp_Green.label>
+  <KAGESHAINLamp_Green.description>KAGESHAIN灯平均绿色。
+再也没有出现过许多KAGESHAIN灯所产生。
+它有一个小的设计缺陷，其中防止笼
+灯泡被替换。其实人们关心这一点。(KAGESHAIN Lamp in mean-green.
+There have not been many KAGESHAIN lamps produced.
+It had a small design flaw where the cage prevented
+the bulb to be replaced. People actually cared about that.)</KAGESHAINLamp_Green.description>
+  <KAGESHAINLamp_Green_Blueprint.label>KAGESHAIN灯（绿色）（蓝图）(KAGESHAIN Lamp (green) (blueprint))</KAGESHAINLamp_Green_Blueprint.label>
+  <KAGESHAINLamp_Green_Blueprint_Install.label>KAGESHAIN灯（绿色）（蓝图）(KAGESHAIN Lamp (green) (blueprint))</KAGESHAINLamp_Green_Blueprint_Install.label>
+  <KAGESHAINLamp_Green_Frame.label>KAGESHAIN灯（绿色）（建筑）(KAGESHAIN Lamp (green) (building))</KAGESHAINLamp_Green_Frame.label>
+  <KAGESHAINLamp_Green_Frame.description>KAGESHAIN灯平均绿色。
+再也没有出现过许多KAGESHAIN灯所产生。
+它有一个小的设计缺陷，其中防止笼
+灯泡被替换。其实人们关心这一点。(KAGESHAIN Lamp in mean-green.
+There have not been many KAGESHAIN lamps produced.
+It had a small design flaw where the cage prevented
+the bulb to be replaced. People actually cared about that.)</KAGESHAINLamp_Green_Frame.description>
+
+  <KAGESHAINLamp_Blue.label>KAGESHAIN灯（蓝色）(KAGESHAIN Lamp (blue))</KAGESHAINLamp_Blue.label>
+  <KAGESHAINLamp_Blue.description>KAGESHAIN灯真正的蓝色。
+再也没有出现过许多KAGESHAIN灯所产生。
+它有一个小的设计缺陷，其中防止笼
+灯泡被替换。其实人们关心这一点。(KAGESHAIN Lamp in true-blue.
+There have not been many KAGESHAIN lamps produced.
+It had a small design flaw where the cage prevented
+the bulb to be replaced. People actually cared about that.)</KAGESHAINLamp_Blue.description>
+  <KAGESHAINLamp_Blue_Blueprint.label>KAGESHAIN灯（蓝色）（蓝图）(KAGESHAIN Lamp (blue) (blueprint))</KAGESHAINLamp_Blue_Blueprint.label>
+  <KAGESHAINLamp_Blue_Blueprint_Install.label>KAGESHAIN灯（蓝色）（蓝图）(KAGESHAIN Lamp (blue) (blueprint))</KAGESHAINLamp_Blue_Blueprint_Install.label>
+  <KAGESHAINLamp_Blue_Frame.label>KAGESHAIN灯（蓝色）（建筑）(KAGESHAIN Lamp (blue) (building))</KAGESHAINLamp_Blue_Frame.label>
+  <KAGESHAINLamp_Blue_Frame.description>KAGESHAIN灯真正的蓝色。
+再也没有出现过许多KAGESHAIN灯所产生。
+它有一个小的设计缺陷，其中防止笼
+灯泡被替换。其实人们关心这一点。(KAGESHAIN Lamp in true-blue.
+There have not been many KAGESHAIN lamps produced.
+It had a small design flaw where the cage prevented
+the bulb to be replaced. People actually cared about that.)</KAGESHAINLamp_Blue_Frame.description>
+
+  <KAGESHAINLamp_Violet.label>KAGESHAIN灯（紫）(KAGESHAIN Lamp (violet))</KAGESHAINLamp_Violet.label>
+  <KAGESHAINLamp_Violet.description>KAGESHAIN灯在天窗紫色。
+再也没有出现过许多KAGESHAIN灯所产生。
+它有一个小的设计缺陷，其中防止笼
+灯泡被替换。其实人们关心这一点。(KAGESHAIN Lamp in skylit-violet.
+There have not been many KAGESHAIN lamps produced.
+It had a small design flaw where the cage prevented
+the bulb to be replaced. People actually cared about that.)</KAGESHAINLamp_Violet.description>
+  <KAGESHAINLamp_Violet_Blueprint.label>KAGESHAIN灯（紫）（蓝图）(KAGESHAIN Lamp (violet) (blueprint))</KAGESHAINLamp_Violet_Blueprint.label>
+  <KAGESHAINLamp_Violet_Blueprint_Install.label>KAGESHAIN灯（紫）（蓝图）(KAGESHAIN Lamp (violet) (blueprint))</KAGESHAINLamp_Violet_Blueprint_Install.label>
+  <KAGESHAINLamp_Violet_Frame.label>KAGESHAIN灯（紫）（建筑）(KAGESHAIN Lamp (violet) (building))</KAGESHAINLamp_Violet_Frame.label>
+  <KAGESHAINLamp_Violet_Frame.description>KAGESHAIN灯在天窗紫色。
+再也没有出现过许多KAGESHAIN灯所产生。
+它有一个小的设计缺陷，其中防止笼
+灯泡被替换。其实人们关心这一点。(KAGESHAIN Lamp in skylit-violet.
+There have not been many KAGESHAIN lamps produced.
+It had a small design flaw where the cage prevented
+the bulb to be replaced. People actually cared about that.)</KAGESHAINLamp_Violet_Frame.description>
+
+  <KAGESHAINLamp_Yellow.label>KAGESHAIN指示灯（黄色）(KAGESHAIN Lamp (yellow))</KAGESHAINLamp_Yellow.label>
+  <KAGESHAINLamp_Yellow.description>KAGESHAIN灯在醇厚黄色。
+再也没有出现过许多KAGESHAIN灯所产生。
+它有一个小的设计缺陷，其中防止笼
+灯泡被替换。其实人们关心这一点。(KAGESHAIN Lamp in mellow-yellow.
+There have not been many KAGESHAIN lamps produced.
+It had a small design flaw where the cage prevented
+the bulb to be replaced. People actually cared about that.)</KAGESHAINLamp_Yellow.description>
+  <KAGESHAINLamp_Yellow_Blueprint.label>KAGESHAIN指示灯（黄色）（蓝图）(KAGESHAIN Lamp (yellow) (blueprint))</KAGESHAINLamp_Yellow_Blueprint.label>
+  <KAGESHAINLamp_Yellow_Blueprint_Install.label>KAGESHAIN指示灯（黄色）（蓝图）(KAGESHAIN Lamp (yellow) (blueprint))</KAGESHAINLamp_Yellow_Blueprint_Install.label>
+  <KAGESHAINLamp_Yellow_Frame.label>KAGESHAIN指示灯（黄色）（建筑）(KAGESHAIN Lamp (yellow) (building))</KAGESHAINLamp_Yellow_Frame.label>
+  <KAGESHAINLamp_Yellow_Frame.description>KAGESHAIN灯在醇厚黄色。
+再也没有出现过许多KAGESHAIN灯所产生。
+它有一个小的设计缺陷，其中防止笼
+灯泡被替换。其实人们关心这一点。(KAGESHAIN Lamp in mellow-yellow.
+There have not been many KAGESHAIN lamps produced.
+It had a small design flaw where the cage prevented
+the bulb to be replaced. People actually cared about that.)</KAGESHAINLamp_Yellow_Frame.description>
+
+  <LAMPONLamp.label>LAMPON灯(LAMPON Lamp)</LAMPONLamp.label>
+  <LAMPONLamp.description>LAMPON灯
+灯吊在织物上。不是很亮，但肯定相当。(LAMPON Lamp
+Lights strung on fabric. Not very bright but sure pretty.)</LAMPONLamp.description>
+  <LAMPONLamp_Blueprint.label>LAMPON灯（蓝图）(LAMPON Lamp (blueprint))</LAMPONLamp_Blueprint.label>
+  <LAMPONLamp_Blueprint_Install.label>LAMPON灯（蓝图）(LAMPON Lamp (blueprint))</LAMPONLamp_Blueprint_Install.label>
+  <LAMPONLamp_Frame.label>LAMPON灯（建筑物）(LAMPON Lamp (building))</LAMPONLamp_Frame.label>
+  <LAMPONLamp_Frame.description>LAMPON灯
+灯吊在织物上。不是很亮，但肯定相当。(LAMPON Lamp
+Lights strung on fabric. Not very bright but sure pretty.)</LAMPONLamp_Frame.description>
+
+
+  
+
+  <FEERSTELL.label>FEERSTELL壁炉(FEERSTELL fireplace)</FEERSTELL.label>
+  <FEERSTELL.description>FEERSTELL壁炉
+可建的，而不是一堵墙，但效果最好用密封cimney背后
+该路线从背面背面的热量通过通风口(FEERSTELL fireplace
+Can be built instead of a wall, but works best with a sealed cimney behind
+that routes the heat from the backside back through a vent)</FEERSTELL.description>
+  <FEERSTELL_Blueprint.label>FEERSTELL壁炉（蓝图）(FEERSTELL fireplace (blueprint))</FEERSTELL_Blueprint.label>
+  <FEERSTELL_Blueprint_Install.label>FEERSTELL壁炉（蓝图）(FEERSTELL fireplace (blueprint))</FEERSTELL_Blueprint_Install.label>
+  <FEERSTELL_Frame.label>FEERSTELL壁炉（建筑）(FEERSTELL fireplace (building))</FEERSTELL_Frame.label>
+  <FEERSTELL_Frame.description>FEERSTELL壁炉
+可建的，而不是一堵墙，但效果最好用密封cimney背后
+该路线从背面背面的热量通过通风口(FEERSTELL fireplace
+Can be built instead of a wall, but works best with a sealed cimney behind
+that routes the heat from the backside back through a vent)</FEERSTELL_Frame.description>
+
+
+</LanguageData>
